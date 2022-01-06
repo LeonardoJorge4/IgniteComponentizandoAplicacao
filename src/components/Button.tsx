@@ -1,3 +1,4 @@
+import { memo } from 'react'
 import { Icon } from './Icon';
 
 import '../styles/button.scss';
